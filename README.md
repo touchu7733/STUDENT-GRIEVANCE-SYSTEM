@@ -1,5 +1,7 @@
 # STUDENT-GRIEVANCE-SYSTEM
 A simplified web based student grievance system
+
+
 •In colleges if anyone wants to raise complaint then one has to write on a paper and wait for the respond to whom it’s addressed. • Student has to signup/login and raise complain about the issues he finds.
 
 • Admin has to login through his login id and can view the complaints that has been raised by the students.
